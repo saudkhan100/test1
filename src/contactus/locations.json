@@ -1,0 +1,46 @@
+
+[
+    {
+      "title": "VG SERENGETI LTD",
+      "address": "London, England",
+      "country":  "United Kingdom",
+      "number": "+44 203 432 5672"
+    },
+    {
+      "title": "VG SERENGETI INC",
+      "address": "San Francisco, CA",
+      "country":  "United State of America",
+      "number": "+1 (415) 347 6258"
+    },
+    {
+      "title": "VG SERENGETI DMCC",
+      "address": "Dubai",
+      "country":  "United Arab Emirates",
+      "number": "+971 4297 0969"
+    },
+    {
+      "title": "VG SERENGETI SARL U",
+      "address": "Lome",
+      "country":  "Togo",
+      "number": "+228 2261 1430"
+    },
+    {
+      "title": "VG SERENGETI INDO",
+      "address": "Jakarta",
+      "country":  "Indonesia",
+      "number": "+62 21 294 9135"
+    },
+    {
+      "title": "VG SERENGETI NIG LTD",
+      "address": "Lagos State",
+      "country":  "Nigeria",
+      "number": "+234 703 975 9064"
+    },
+    {
+      "title": "VG SERENGETI GHANA LTD",
+      "address": "Accra",
+      "country":  "Ghana",
+      "number": "+233 53 447 1465"
+    }
+  ]
+  
