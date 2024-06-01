@@ -18,11 +18,7 @@ const teamMembers = [
     title: "Director Of Risk",
     avatar: "https://onedrive.live.com/embed?resid=38E489A2E9BE257B%2157288&authkey=%21ABDz27w4inwSuiI&width=980&height=980",
   },
-  {
-    name: "MATT CAPE",
-    title: "Chief Executive Officer",
-    avatar: "https://onedrive.live.com/embed?resid=38E489A2E9BE257B%2157289&authkey=%21AP-Kno7vZGbci4M&width=1176&height=1176",
-  },
+ 
 ];
 
 const chairman = {

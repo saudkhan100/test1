@@ -1,7 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import video from './video1.mov'
-
+import ReactPlayer from 'react-player';
 const HeroSection = () => {
 
 
@@ -20,30 +19,33 @@ const HeroSection = () => {
 </div>
 
 <div className="absolute top-0 left-0 w-full h-full bg-black opacity-40 z-20"></div>
-      {/* <video autoPlay loop muted className="absolute z-10 w-full h-auto min-w-full min-h-full max-w-none max-h-none">
+      <video autoPlay loop muted className="absolute z-10 w-full h-auto min-w-full min-h-full max-w-none max-h-none">
   <source
-    src={video}
+    src="https://cdn.pixabay.com/video/2024/05/28/214066.mp4"
     type="video/mp4"
   />
   Your browser does not support the video tag.
-</video> */}
+</video>
 
-<iframe 
-  src="" 
-  className="absolute z-10 w-full h-auto min-w-full min-h-full max-w-none max-h-none"
-  frameborder="0"
-  allow="autoplay; loop; muted"
-  allowfullscreen>
-</iframe>
+{/* <ReactPlayer
+        url="https://www.youtube.com/watch?v=85kTHwJ1Ju8"
+        playing={true}
+        controls={false}
+        width="100%"
+        height="100%"
+        config={{
+          youtube: {
+            playerVars: { modestbranding: 1, showinfo: 0, rel: 0 },
+          },
+        }}
+        className="relative z-10 w-full h-full"
+      /> */}
+    
 
 
-{/* <iframe 
-  src="https://onedrive.live.com/embed?resid=38E489A2E9BE257B%2157291&authkey=!ADIyH6K7M1tRguc&autoplay=1&loop=1" 
-  class="absolute z-10 w-full h-auto min-w-full min-h-full max-w-none max-h-none" 
-  frameborder="0" 
-  allow="autoplay" 
-  allowfullscreen>
-</iframe> */}
+
+
+
 
     </header>
   );

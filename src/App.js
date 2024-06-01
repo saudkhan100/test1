@@ -4,7 +4,6 @@ import DataPage from "./Products/Datapage";
 import { Route, Routes } from "react-router-dom";
 import Header from "./home/header/header";
 import Footer from "./home/footer/footer";
-import TeamAll from './team/teamall'
 import locationsData from "./contactus/locations";
 import LocationComponent from "./contactus/locationcomponent";
 import ProductPage from "./Products/productpage";
